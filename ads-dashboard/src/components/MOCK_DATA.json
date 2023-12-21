@@ -1,0 +1,8 @@
+[{"id":1,"Campaign":"cosmetics","Clicks":53,"Cost":652,"Conversion":67,"Revenue":753},
+{"id":2,"Campaign":"Serums","Clicks":2,"Cost":726,"Conversion":72,"Revenue":1000},
+{"id":3,"Campaign":"Facewash","Clicks":57,"Cost":684,"Conversion":72,"Revenue":670},
+{"id":4,"Campaign":"Shampoos","Clicks":83,"Cost":432,"Conversion":30,"Revenue":732},
+{"id":5,"Campaign":"Conditioners","Clicks":75,"Cost":551,"Conversion":23,"Revenue":822},
+{"id":6,"Campaign":"Facewash 2","Clicks":41,"Cost":923,"Conversion":71,"Revenue":688},
+{"id":7,"Campaign":"Serum 2","Clicks":10,"Cost":590,"Conversion":95,"Revenue":955}
+]

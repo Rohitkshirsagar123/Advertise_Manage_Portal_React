@@ -1,0 +1,4 @@
+[{"id":1,"Group":"male","Clicks":53,"Cost":652,"Conversion":67,"Revenue":753},
+{"id":2,"Group":"Female","Clicks":2,"Cost":726,"Conversion":72,"Revenue":1000},
+{"id":3,"Group":"Unknown","Clicks":57,"Cost":684,"Conversion":72,"Revenue":670}
+]
